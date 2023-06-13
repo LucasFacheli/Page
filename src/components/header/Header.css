@@ -1,0 +1,30 @@
+.Header {
+    text-align: center;
+    /*background-color: #282c34;*/
+    background-color: rgb(19, 71, 167);
+    height: 75px;
+    color:rgb(255, 255, 255);
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    padding-left: 0px;
+}
+div{
+    margin-top: 30px;
+    padding-left: 20px;
+    display: inline-block;
+}
+
+.Options{
+    text-align: center;
+    width: 50%;
+    margin-top: 0px;
+}
+.LanguageGrid{
+    margin-top: 0px;
+    padding-right: 20px;
+    width: 50%;
+    position: inherit;
+    text-align: end;
+}
