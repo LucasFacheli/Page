@@ -1,0 +1,45 @@
+.AboutMe {
+    text-align: center;
+    height: 70px;
+    color:rgb(206, 205, 205);
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 50%;
+    padding-left: 0px;
+    font-size: 23px;
+    margin-bottom: 85px;
+    margin-top: 30px;
+    margin-left: 75px;
+    text-align: center;
+    padding-right: 10%;
+    padding-left: 15px;
+}
+
+.Title{
+    text-align: center;
+    font-size: 50px;
+    width: 100%;
+    color: rgb(255, 136, 0);
+}
+
+.Image{
+    width: 300px;
+    margin-right: 50px;
+}
+
+.SubTitle{
+    width: 100%;
+    text-align: left;
+    color: rgb(255, 136, 0);
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+}
+
+.Text{
+    width: 100%;
+    text-align: left;
+    padding-left: 30px;
+    padding-bottom: 40px;
+}

@@ -22,8 +22,8 @@ export default function Header() {
         <Grid item className='Option' xs={3}>Contact</Grid>
       </Grid>
       <Grid item className='IconGrid' xs={6}>
-          <FontAwesomeIcon icon={faLinkedinIn}  className='TypeIcon' onClick={openLinkedIn}/>
-          <FontAwesomeIcon icon={faGithub} className='TypeIcon' onClick={openGithub}/>
+        <FontAwesomeIcon icon={faLinkedinIn}  className='TypeIcon' onClick={openLinkedIn}/>
+        <FontAwesomeIcon icon={faGithub} className='TypeIcon' onClick={openGithub}/>
       </Grid>
     </Grid>
   )
